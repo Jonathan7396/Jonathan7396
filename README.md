@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=32&pause=700&color=2A2B3F&center=true&width=700&lines=👋+Hello,+I’m+Jonathan+Mathew;+Software+Eng.+Student+@+Flinders+Uni" alt="Typing SVG" />
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=28&pause=700&color=FFFFFF&center=true&width=700&lines=👋+Hello,+I’m+Jonathan+Mathew;+a+Flinders+Uni+Software+Eng.+Student!" alt="Typing SVG" />  
+</p>  
+
 
 <p align="center">
   <a href="https://github.com/Jonathan7396"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
